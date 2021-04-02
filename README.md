@@ -1,5 +1,5 @@
 # bisection-numerical-method
-Finding a solution of a system of equations using the bisection root-finding algorithm.
+Finding a solution to a system of equations using the bisection root-finding algorithm.
 
 ## Задача:
 Дадена е системата:
@@ -147,8 +147,12 @@ iter // Не слагаме ";" в края, за да изведем на ко�
 
 <img src="media/image7.png" />
 
+## Проверка:
 
+Можем да проверим решението, използвайки Wolfram Alfa:
 
+<img src="media/image5.png" />
 
+Както се вижда,за корена, който апроксимирахме,
 
-
+<img src="media/image8.png" />
